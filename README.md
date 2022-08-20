@@ -1,4 +1,4 @@
-[![Img](https://i.imgur.com/MRxuSxg.png)](https://github.com/CharlotteH86)
+[![Img](https://i.imgur.com/ZMWua5M.jpg)](https://github.com/CharlotteH86)
 
 - Moi
   - I love coffee
