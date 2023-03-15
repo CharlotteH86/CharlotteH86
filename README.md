@@ -1,9 +1,8 @@
 [![Img](https://i.imgur.com/ZMWua5M.jpg)](https://github.com/CharlotteH86)
 
-- Moi
-  - I love coffee
-  - Striving for the aesthetic lifestyle
-  - I believe in love and that I one day will stop finishing things tomorrow
+
+I love coffee ☕️
+
 ### [![Charlotte's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlotteH86&theme=material-palenight&align="center")](https://github.com/CharlotteH86/github-readme-stats) ![Charlotte's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlotteH86&show_icons=true&theme=material-palenight&align="center")
 
 <!--
