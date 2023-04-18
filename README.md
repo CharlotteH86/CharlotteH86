@@ -1,4 +1,7 @@
-[![Img](https://i.imgur.com/ZMWua5M.jpg)](https://github.com/CharlotteH86)
+<!--[![Img](https://i.imgur.com/ZMWua5M.jpg)](https://github.com/CharlotteH86) -->
+
+[![Img](https://i.imgur.com/Fn8shCj.png)](https://github.com/CharlotteH86)
+
 
 
 ### <div align="center">I love coffee ☕️</div>
