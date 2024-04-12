@@ -10,7 +10,7 @@
 Java programmer<br>
 with a secret love<br>
 for<br>
-front-end development<br></div>
+iOS development<br></div>
 
 
 
